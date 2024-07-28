@@ -1,0 +1,5 @@
+G:\deep_learning\ycx_notebook\6.SDD\ssd-pytorch\VOCdevkit/VOC2007/JPEGImages/000001.jpg 48,240,195,371,11 8,12,352,498,14
+G:\deep_learning\ycx_notebook\6.SDD\ssd-pytorch\VOCdevkit/VOC2007/JPEGImages/000010.jpg 87,97,258,427,12 133,72,245,284,14
+G:\deep_learning\ycx_notebook\6.SDD\ssd-pytorch\VOCdevkit/VOC2007/JPEGImages/000026.jpg 90,125,337,212,6
+G:\deep_learning\ycx_notebook\6.SDD\ssd-pytorch\VOCdevkit/VOC2007/JPEGImages/000027.jpg 174,101,349,351,14
+G:\deep_learning\ycx_notebook\6.SDD\ssd-pytorch\VOCdevkit/VOC2007/JPEGImages/000039.jpg 156,89,344,279,19
