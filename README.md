@@ -1,3 +1,3 @@
 <p align="center">
-  <h3 align="center">⌨️ My study on MOT(Multiple Objects Tracking)</h3>
+  <h3 align="center">⌨️ My study on MOT(Multiple Objects Track)</h3>
 </p>
