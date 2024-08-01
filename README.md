@@ -15,3 +15,7 @@
 ## ⚡ Quick setup
 
 1. predict.py中，设置track=True则开启目标跟踪任务，设置track=False则只开启目标检测任务。
+---
+
+## ⚡ Kuhn
+
