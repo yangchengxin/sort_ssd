@@ -1,0 +1,14 @@
+﻿  main.cpp
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(498,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(491): message : 在编译 类 模板 成员函数“void HungarianOptimizer<float>::CheckStar(void)”时
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(486): message : 查看对正在编译的函数 模板 实例化“void HungarianOptimizer<float>::CheckStar(void)”的引用
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(213): message : 在编译 类 模板 成员函数“HungarianOptimizer<float>::HungarianOptimizer(const int)”时
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(209): message : 查看对正在编译的函数 模板 实例化“HungarianOptimizer<float>::HungarianOptimizer(const int)”的引用
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\hungarian_optimizer.h(209): message : 在编译 类 模板 成员函数“HungarianOptimizer<float>::HungarianOptimizer(void)”时
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\main.cpp(60): message : 查看对正在编译的函数 模板 实例化“HungarianOptimizer<float>::HungarianOptimizer(void)”的引用
+G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\Kuhn_Munkres\main.cpp(60): message : 查看对正在编译的 类 模板 实例化“HungarianOptimizer<float>”的引用
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 709 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Kuhn_Munkres.vcxproj -> G:\deep_learning\ycx_notebook\6.SSD\ssd+sort - 副本\Kuhn_Munkres\x64\Release\Kuhn_Munkres.exe
