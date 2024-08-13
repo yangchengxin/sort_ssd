@@ -236,7 +236,11 @@ if __name__ == "__main__":
         raise ValueError("video path is error!")
 
     fps = 0.0
+    # ------------------------------
+    #   初始化ov推理
+    # ------------------------------
     ov_infer = OV_Infer()
+
     while True:
         t1 = time.time()
 
@@ -277,4 +281,7 @@ if __name__ == "__main__":
             capture.release()
             break
 
+    print("Video Detection Done!")
+    capture.release()
+    cv2.destroyAllWindows()
 
